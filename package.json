@@ -1,0 +1,23 @@
+{
+  "name": "data-share",
+  "version": "0.0.1",
+  "description": "Easy way to create social likes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gsantiago/data-share"
+  },
+  "main": "data-share.js",
+  "keywords": [
+    "social",
+    "links",
+    "share",
+    "button",
+    "facebook",
+    "twitter",
+    "google",
+    "plus",
+    "linkedin"
+  ],
+  "author": "Guilherme Santiago",
+  "license": "MIT"
+}
